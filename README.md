@@ -1,5 +1,4 @@
-# Human Resources Analytics Dashboard
-
+# Human Resources Analytics Dashboard | [View Dashboard](https://public.tableau.com/views/HRanalyticsDashboard_17588283187520/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Turning Workforce Data Into Strategic Decisions
 
 Every number in HR represents a person. Every percentage tells a story. Every trend reveals an opportunity or a warning.
